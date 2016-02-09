@@ -1,0 +1,3 @@
+Prueba de integración de HU3
+
+Probamos que una vez unidas las historias de usuario HU1, HU2 y HU3 no se producen bugs y sigue cumpliendo los criterios de aceptación.
