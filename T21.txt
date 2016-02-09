@@ -1,0 +1,15 @@
+Descripción de la Historia de Usuario 2
+
+En esta historia de usuario implementaremos las función de multiplicacion
+
+Se considerará HECHA cuando:
+- Todas las tareas esten finalizadas.
+- Haya superado el test TDD unitario.
+- Cumpla el criterio de aceptación.
+
+Esta historia de usuario se divide en las siguientes tareas:
+
+T11: Descripción de la tarea y de cuando está hecha.
+T12: Implementación del test TDD.
+T13: Codificación de la multiplicación.
+T14: Refactorización.
