@@ -1,0 +1,37 @@
+Implementación del test TDD unitario.
+
+Consideramos valores límite el 0 y el 9999
+
+Creamos el código TDD para varios ejemplos de resta.
+
+Como el programa solo trabaja con números naturales nos debe informar en los siguientes casos de que no es posible realizar la operación:
+
+Para a/b=c
+- Si b>a: "El divisor debe ser menor que el dividendo"
+- Si a/b= número racional: "El divisor debe ser un número divisible entre el dividendo"
+- Si b=0: "El divisor no puede ser 0"
+
+
+Prueba 1:
+a=6
+b=2
+c=valor obtenido 
+Aserto (valor esperado = valor botenido): 3=c?
+
+Prueba 2:
+a=7000
+b=0
+c=valor obtenido 
+Aserto (valor esperado = valor botenido): "El divisor no puede ser 0"=c?
+
+Prueba 3:
+a=35
+b=15
+c=valor obtenido 
+Aserto (valor esperado = valor botenido): "El divisor debe ser un número divisible entre el dividendo"=c?
+
+Prueba 4:
+a=2
+b=10
+c=valor obtenido 
+Aserto (valor esperado = valor botenido): "El divisor debe ser menor que el dividendo"=c?
